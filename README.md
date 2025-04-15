@@ -35,6 +35,9 @@ Introducing **Pyrus**, the world’s first ethical virus library — for educati
 
 > **Pyrus**: The pathogen that refuses to infect the innocent.
 
+> #### NOTE!!!
+> There is a certain way to get it to not follow these rules, because the framework may get broken into, and therefore we are rolling out CoreANTI!
+
 ---
 
 **Why are antiviruses paid?**
